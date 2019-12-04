@@ -8,7 +8,7 @@
 Summary:	File::FnMatch - simple filename and pathname matching
 Name:		perl-File-FnMatch
 Version:	0.02
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/File/%{pdir}-%{pnam}-%{version}.tar.gz
