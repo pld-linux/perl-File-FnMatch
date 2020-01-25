@@ -4,7 +4,6 @@
 #
 %define		pdir	File
 %define		pnam	FnMatch
-%include	/usr/lib/rpm/macros.perl
 Summary:	File::FnMatch - simple filename and pathname matching
 Name:		perl-File-FnMatch
 Version:	0.02
